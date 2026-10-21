@@ -1,0 +1,4 @@
+# The npm lockfile is generated (~2.8k lines of dependency tree). Keep it tracked
+# for reproducible installs, but fold it out of diffs: `-diff` collapses it in
+# `git diff`, and `linguist-generated` makes GitHub hide it in pull requests.
+package-lock.json linguist-generated=true -diff

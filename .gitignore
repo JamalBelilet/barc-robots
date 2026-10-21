@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Build output and coverage
+dist/
+coverage/
+
+# Logs (covers Firebase CLI debug logs, e.g. firebase-debug.log)
+*.log
+
+# Firebase CLI local artifacts
+.firebase/
+
+# macOS
+.DS_Store
